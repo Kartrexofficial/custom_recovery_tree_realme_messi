@@ -42,8 +42,8 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
     export LC_ALL="C"
   
 # Maintaining Info
-    export OF_MAINTAINER=Crypton
-    export FOX_VERSION="R11.1"
+    export OF_MAINTAINER=KartreXofficial
+    export FOX_MAINTAINER_PATCH_VERSION="R11.1"
     export FOX_BUILD_TYPE=beta
   	
 # Device Info
